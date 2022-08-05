@@ -1,0 +1,7 @@
+.idea/
+build/
+.gradle/
+.exercism/
+hello-world.iml
+hello-world.ipr
+hello-world.iws
